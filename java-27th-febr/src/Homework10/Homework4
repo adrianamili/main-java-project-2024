@@ -1,0 +1,6 @@
+/** ce inseamna o clasa? Ce inseamna o metoda/proprietate/ un constructor? **/
+
+Java is an object-oriented programming language.A Class is like an object constructor, or a "blueprint" for creating objects.
+A method is a block of code which only runs when it is called.Methods are used to perform certain actions, and they are also known as functions.
+Class attributes are variables within a class.
+A constructor in Java is a special method that is used to initialize objects.
