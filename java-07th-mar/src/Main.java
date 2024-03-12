@@ -53,5 +53,10 @@ public class Main {
         }
      String variabilaNull = null; //!=" "
 
+        Arrays.sort(listaDeFructe);
+        for (String fruct :listaDeFructe){
+            System.out.println(fruct);
+        }
+
     }
 }
